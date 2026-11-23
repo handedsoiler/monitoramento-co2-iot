@@ -1,5 +1,4 @@
-monitoramento-co2-iot
-Sistema IoT de baixo custo para monitoramento contínuo de CO₂, temperatura e umidade relativa em ambientes internos, utilizando Arduino Uno, sensor SCD40 e ESP8266.
+# Sistema IoT de baixo custo para monitoramento contínuo de CO₂, temperatura e umidade relativa em ambientes internos, utilizando Arduino Uno, sensor SCD40 e ESP8266.
 Monitoramento contínuo de CO₂ com sistema IoT de baixo custo
 
 Repositório de códigos-fonte de um sistema IoT de baixo custo desenvolvido para o monitoramento contínuo da concentração de dióxido de carbono (CO₂), temperatura e umidade relativa em ambientes internos.
