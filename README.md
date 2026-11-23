@@ -66,7 +66,7 @@ Antes de carregar o programa na ESP-01, o usuário deverá configurar suas crede
 No código, localize:
 
 ```cpp
-#define IO_USERNAME "rverissimo"
+#define IO_USERNAME "SEU_USUARIO_ADAFRUIT"
 #define IO_KEY "SUA_CHAVE_ADAFRUIT_IO"
 ```
 
